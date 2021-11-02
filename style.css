@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: hotpink;
+color:black;
+}
+.heading:hover{
+    background-color: violet;  
+}
+.link{
+background-color: white;
+margin: 20px;
+width:300px;
+font-size: 20px;
+color:black;
+border-radius: 20px;
+}
+.heading1
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: rgb(54, 0, 179);
+color:white;
+}
+.heading1:hover{
+    background-color:purple;
+    color:white;  
+}
+canvas{
+    box-shadow:5px 5px 20px orange;
+    border-radius: 20px;
+}
