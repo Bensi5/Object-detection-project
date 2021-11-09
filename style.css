@@ -36,4 +36,11 @@ color:white;
 canvas{
     box-shadow:5px 5px 20px orange;
     border-radius: 20px;
+    margin-top: 40px;
+}
+#status{
+    background-color: blue;
+    color: white;
+    width:220px;
+    font-size: 18px;
 }
